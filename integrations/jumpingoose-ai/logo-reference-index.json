@@ -1,0 +1,2752 @@
+{
+  "schema_version": "jg-logo-reference-index-v1",
+  "source_catalog": "skills/logo-design/assets/library/catalog.json",
+  "source_commit": "734090317a2155c5bf1ae8bd4cc85c6848a0128f",
+  "usage": "Metadata-only study index. Use aggregate patterns to avoid category clichés and seek distinct constructions. Never reproduce, trace, or lightly modify any reference mark. This index is not an originality or trademark-clearance check.",
+  "reference_count": 141,
+  "references": [
+    {
+      "industry": "hosting-cdn",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "numerals 100 with 00 as infinity loop",
+      "geometry": [],
+      "techniques": [
+        "infinity-loop",
+        "ligature",
+        "letter-substitution"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "bold",
+        "technical"
+      ],
+      "note": "Double zero turned into infinity loop within the numerals"
+    },
+    {
+      "industry": "payments-fintech",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "custom squared lowercase green name",
+      "geometry": [],
+      "techniques": [],
+      "type_style": "display-custom",
+      "mood": [
+        "bold",
+        "distinctive"
+      ],
+      "note": "Fully custom squared letterforms make a plain name unmistakable"
+    },
+    {
+      "industry": "travel-transport",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "Belo loop merging pin, heart and A",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "line-monoline",
+        "hidden-meaning",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "warm"
+      ],
+      "note": "Single monoline loop encodes location, love and the letter A"
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "monoline A with wave in circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "containment",
+        "line-monoline",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "modern",
+        "confident"
+      ],
+      "note": "A doubles as a sound wave: letter and meaning in one stroke"
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "mascot",
+      "symbol_type": null,
+      "subject": "green robot with antennae and eyes",
+      "geometry": [
+        "circle",
+        "rounded-square"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "playful"
+      ],
+      "note": "Character built from simple rounded primitives, instantly readable"
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "camel silhouette in orange circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment",
+        "gradient"
+      ],
+      "type_style": null,
+      "mood": [
+        "warm",
+        "friendly"
+      ],
+      "note": "Camel carved from circle with confident negative space"
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "A built from pencil, brush and ruler",
+      "geometry": [
+        "rounded-square"
+      ],
+      "techniques": [
+        "containment",
+        "gradient",
+        "hidden-meaning",
+        "line-monoline"
+      ],
+      "type_style": null,
+      "mood": [
+        "clean",
+        "creative"
+      ],
+      "note": "Letter A assembled from creative tools: layered hidden meaning"
+    },
+    {
+      "industry": "hardware-devices",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "apple silhouette with bite",
+      "geometry": [
+        "organic",
+        "circle"
+      ],
+      "techniques": [
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "premium",
+        "minimal"
+      ],
+      "note": "Iconic single silhouette; bite adds scale cue and memorability"
+    },
+    {
+      "industry": "hardware-devices",
+      "mark_type": "combination",
+      "symbol_type": "abstract",
+      "subject": "infinity loop with minus and plus",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "infinity-loop",
+        "hidden-meaning",
+        "negative-space"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "technical",
+        "friendly"
+      ],
+      "note": "Infinity loop holding minus and plus tells the story simply"
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "combination",
+      "symbol_type": "letterform",
+      "subject": "A-shaped rocket with flame above name",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "letter-substitution"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "bold",
+        "modern"
+      ],
+      "note": "Letter A becomes a rocket with one added flame"
+    },
+    {
+      "industry": "productivity-collaboration",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "two gradient blue mountain peaks",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "gradient"
+      ],
+      "type_style": null,
+      "mood": [
+        "confident",
+        "modern"
+      ],
+      "note": "Two gradient peaks, strong simplicity scalable to favicon"
+    },
+    {
+      "industry": "security-identity",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "black shield with star cut out",
+      "geometry": [
+        "shield",
+        "star"
+      ],
+      "techniques": [
+        "negative-space",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "secure",
+        "bold"
+      ],
+      "note": "Star carved from shield via negative space, strong at any size"
+    },
+    {
+      "industry": "cloud-infrastructure",
+      "mark_type": "combination",
+      "symbol_type": "abstract",
+      "subject": "lowercase aws over smile arrow",
+      "geometry": [],
+      "techniques": [
+        "arrow",
+        "hidden-meaning"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "friendly",
+        "corporate"
+      ],
+      "note": "Smile arrow adds warmth and motion under a plain wordmark"
+    },
+    {
+      "industry": "productivity-collaboration",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "green hill inside soft smile shape",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "containment",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "calm"
+      ],
+      "note": "Hill silhouette doubles as a smile inside soft container"
+    },
+    {
+      "industry": "hardware-devices",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "bind-rune of H and B in blue",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "containment",
+        "line-monoline"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "trustworthy"
+      ],
+      "note": "Runic initials merged into one glyph: history encoded simply"
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "speech bubble with chart-line top edge",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "speech-bubble",
+        "line-monoline",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "clever",
+        "technical"
+      ],
+      "note": "Speech bubble edge doubles as a chart line: two ideas fused"
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "geometric monoline deer head and antlers",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "line-monoline",
+        "geometric-construction",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "sharp",
+        "technical"
+      ],
+      "note": "Deer head built from strict geometric monoline strokes"
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "three stacked rhombus layers",
+      "geometry": [
+        "diamond"
+      ],
+      "techniques": [
+        "stacked-layers",
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "simple",
+        "calm"
+      ],
+      "note": "Three stacked layers: minimal, memorable, name-literal"
+    },
+    {
+      "industry": "payments-fintech",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "radial pattern of graduated dots",
+      "geometry": [
+        "radial",
+        "circle"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "precise"
+      ],
+      "note": "Graduated dot sizes build a radial form through pure repetition"
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "pinwheel of colored squares with arrows",
+      "geometry": [
+        "diamond",
+        "radial"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "color-segments",
+        "arrow",
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "colorful",
+        "structured"
+      ],
+      "note": "Rotated modules and arrows create strict radial symmetry"
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "tricolor ring segments around blue core",
+      "geometry": [
+        "circle",
+        "radial"
+      ],
+      "techniques": [
+        "color-segments",
+        "radial-symmetry",
+        "gradient",
+        "dimensional-shading"
+      ],
+      "type_style": null,
+      "mood": [
+        "vibrant",
+        "iconic"
+      ],
+      "note": "Three color segments plus core; strong radial construction."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "notched ring around a solid dot",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "technical"
+      ],
+      "note": "Pure circle geometry; one notch creates motion and identity."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "lambda in two-tone circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "color-segments",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "clever",
+        "balanced"
+      ],
+      "note": "Lambda emerges from negative space between two colored halves."
+    },
+    {
+      "industry": "testing-monitoring",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "umbrella outline in magenta",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "line-monoline",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "clever",
+        "friendly"
+      ],
+      "note": "Umbrella as coverage metaphor: one simple, memorable idea."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "wireframe isometric cube",
+      "geometry": [
+        "hexagon"
+      ],
+      "techniques": [
+        "isometric-3d",
+        "line-monoline",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "minimal"
+      ],
+      "note": "Cube drawn with pure monoline geometry; works at any size."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "isometric cube with cut-out faces",
+      "geometry": [
+        "hexagon"
+      ],
+      "techniques": [
+        "isometric-3d",
+        "negative-space",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "technical"
+      ],
+      "note": "Cube built purely from negative-space cuts; bold single-color geometry."
+    },
+    {
+      "industry": "database-data",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "couch silhouette in red circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "simple"
+      ],
+      "note": "Couch reduced to one rounded negative shape; direct name reference."
+    },
+    {
+      "industry": "testing-monitoring",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "cucumber slice as speech bubble",
+      "geometry": [
+        "circle",
+        "radial"
+      ],
+      "techniques": [
+        "speech-bubble",
+        "radial-symmetry",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "fresh",
+        "friendly"
+      ],
+      "note": "Cucumber cross-section doubles as speech bubble for plain-language specs."
+    },
+    {
+      "industry": "security-identity",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "letter D built from skewed bars",
+      "geometry": [
+        "grid-modular"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "secure",
+        "structured"
+      ],
+      "note": "Letter D emerges from repeated bars; strong modular construction."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "mascot",
+      "symbol_type": null,
+      "subject": "controller-shaped face with two eyes",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "mirror-symmetry",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "friendly"
+      ],
+      "note": "Controller shape doubles as friendly face; minimal features, maximum personality."
+    },
+    {
+      "industry": "cloud-infrastructure",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "whale carrying stacked containers",
+      "geometry": [
+        "organic",
+        "grid-modular"
+      ],
+      "techniques": [
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "memorable"
+      ],
+      "note": "Whale carrying containers: literal product metaphor, instantly memorable."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "orange teardrop with arrow cutout",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "arrow",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "dynamic",
+        "warm"
+      ],
+      "note": "Arrow carved from teardrop via negative space; single bold idea."
+    },
+    {
+      "industry": "hosting-cdn",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "dark crescent moon around blue disc",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "overlap-transparency"
+      ],
+      "type_style": null,
+      "mood": [
+        "calm",
+        "dreamy"
+      ],
+      "note": "Two circles make a crescent moon; minimal geometry, clear name link."
+    },
+    {
+      "industry": "productivity-collaboration",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "open box built from blue rhombi",
+      "geometry": [
+        "diamond",
+        "grid-modular"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "isometric-3d"
+      ],
+      "type_style": null,
+      "mood": [
+        "simple",
+        "trustworthy"
+      ],
+      "note": "Five rhombi form an open box; modular and instantly legible."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "white smile curve in black disc",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "friendly"
+      ],
+      "note": "A single smile arc in a circle; radical reduction of a face."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "tangram pieces forming a square",
+      "geometry": [
+        "square",
+        "triangle",
+        "grid-modular"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "color-segments",
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "structured"
+      ],
+      "note": "Tangram pieces tile a perfect square; exemplary geometric construction."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "mascot",
+      "symbol_type": null,
+      "subject": "owl face cut into red disc",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "wise",
+        "friendly"
+      ],
+      "note": "Owl face formed entirely by negative space in a disc."
+    },
+    {
+      "industry": "payments-fintech",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "faceted grey octahedron",
+      "geometry": [
+        "diamond"
+      ],
+      "techniques": [
+        "dimensional-shading",
+        "mirror-symmetry",
+        "isometric-3d"
+      ],
+      "type_style": null,
+      "mood": [
+        "solid",
+        "iconic"
+      ],
+      "note": "Faceted octahedron from flat tones; iconic, symmetrical, scalable."
+    },
+    {
+      "industry": "hosting-cdn",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "name with stopwatch replacing a",
+      "geometry": [],
+      "techniques": [
+        "letter-substitution",
+        "hidden-meaning"
+      ],
+      "type_style": "humanist-sans",
+      "mood": [
+        "fast",
+        "bold"
+      ],
+      "note": "Stopwatch folded into a letter conveys speed without extra symbol."
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "infinity f in speech-bubble disc",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "infinity-loop",
+        "speech-bubble",
+        "negative-space",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "open"
+      ],
+      "note": "Letter f, infinity loop and speech bubble fused in one mark."
+    },
+    {
+      "industry": "design-creative",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "five colored circles and half-rounds",
+      "geometry": [
+        "grid-modular",
+        "circle"
+      ],
+      "techniques": [
+        "color-segments",
+        "modular-repetition",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "creative"
+      ],
+      "note": "Modular circle and half-round units; each color a separate building block."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "layered blue bars forming chevron",
+      "geometry": [
+        "triangle",
+        "freeform"
+      ],
+      "techniques": [
+        "overlap-transparency",
+        "dimensional-shading",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "fast",
+        "modern"
+      ],
+      "note": "Few angled bars suggest F and motion; clean layered geometry."
+    },
+    {
+      "industry": "design-creative",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "F-like shape from triangles and squares",
+      "geometry": [
+        "square",
+        "triangle",
+        "grid-modular"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "minimal"
+      ],
+      "note": "Squares and triangles tessellate into an F; rigorous modular geometry."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "G with diagonal cut in purple disc",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "modern",
+        "confident"
+      ],
+      "note": "Letter G built from circle and diagonal negative-space cut."
+    },
+    {
+      "industry": "cloud-infrastructure",
+      "mark_type": "mascot",
+      "symbol_type": null,
+      "subject": "ant head with terminal-prompt eyes",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "gradient",
+        "hidden-meaning",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "technical"
+      ],
+      "note": "Terminal glyphs as eyes merge character with developer meaning."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "branch graph nodes in rotated square",
+      "geometry": [
+        "diamond",
+        "rounded-square"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "bold"
+      ],
+      "note": "Single memorable idea: version branch diagram in simple diamond."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "mascot",
+      "symbol_type": null,
+      "subject": "octocat silhouette in circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "iconic",
+        "bold"
+      ],
+      "note": "Strong silhouette carved by negative space inside a circle."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "geometric tanuki head from triangles",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "color-segments",
+        "geometric-construction",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "warm"
+      ],
+      "note": "Animal head built purely from faceted triangles."
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "footprint whose sole forms a G",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "bold"
+      ],
+      "note": "Footprint doubles as letter G; clever dual reading."
+    },
+    {
+      "industry": "open-source-community",
+      "mark_type": "combination",
+      "symbol_type": "pictorial",
+      "subject": "gnu horns drawn as network graph",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "line-monoline",
+        "hidden-meaning"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "technical",
+        "light"
+      ],
+      "note": "Network graph drawn as gnu horns merges subject and name."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "italic GO with speed lines",
+      "geometry": [],
+      "techniques": [
+        "motion-lines"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "fast",
+        "bold"
+      ],
+      "note": "Italic custom letters plus speed lines express speed with minimal means."
+    },
+    {
+      "industry": "other",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "four-color G",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "color-segments",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "iconic",
+        "friendly"
+      ],
+      "note": "Geometric G with clean color segmentation; scales well."
+    },
+    {
+      "industry": "media-entertainment",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "pinwheel of four half-circles",
+      "geometry": [
+        "radial",
+        "circle"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "color-segments",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "vibrant"
+      ],
+      "note": "Pinwheel from four identical half-circles; pure geometric construction."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "node hexagon with inscribed triangle",
+      "geometry": [
+        "hexagon",
+        "triangle"
+      ],
+      "techniques": [
+        "line-monoline",
+        "radial-symmetry",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "precise"
+      ],
+      "note": "Graph nodes and edges as perfect geometric construction."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "handlebar mustache",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "mirror-symmetry",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "witty",
+        "simple"
+      ],
+      "note": "Direct visual pun on the name; single memorable shape."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "chevron, lambda and equals operator",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "geometric-construction",
+        "color-segments"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "precise"
+      ],
+      "note": "Encodes the bind operator and lambda in one geometric mark."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "dog head profile cut into square",
+      "geometry": [
+        "square"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "clever",
+        "calm"
+      ],
+      "note": "Dog profile formed purely by negative space in square."
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "name with sprocket replacing o",
+      "geometry": [],
+      "techniques": [
+        "letter-substitution"
+      ],
+      "type_style": "humanist-sans",
+      "mood": [
+        "friendly",
+        "approachable"
+      ],
+      "note": "Textbook letter substitution: sprocket node graph as the o."
+    },
+    {
+      "industry": "hardware-devices",
+      "mark_type": "lettermark",
+      "symbol_type": null,
+      "subject": "striped IBM letters",
+      "geometry": [
+        "grid-modular"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "motion-lines"
+      ],
+      "type_style": "slab",
+      "mood": [
+        "corporate",
+        "iconic"
+      ],
+      "note": "Horizontal stripes unify heavy slab letters; timeless lettermark."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "camera outline glyph",
+      "geometry": [
+        "rounded-square",
+        "circle"
+      ],
+      "techniques": [
+        "line-monoline",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "simple",
+        "friendly"
+      ],
+      "note": "Camera reduced to three primitives; strong monoline glyph."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "vertical bars forming smiling face",
+      "geometry": [
+        "rounded-square"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "containment",
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "simple"
+      ],
+      "note": "Plain bars read as a smiling face; simple dual meaning."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "emblem",
+      "symbol_type": null,
+      "subject": "name between orange orbit arcs with moons",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "containment"
+      ],
+      "type_style": "humanist-sans",
+      "mood": [
+        "academic",
+        "warm"
+      ],
+      "note": "Orbit arcs and moons evoke Jupiter while framing the name."
+    },
+    {
+      "industry": "education",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "sprout doubling as person in hexagon",
+      "geometry": [
+        "hexagon"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "hopeful",
+        "friendly"
+      ],
+      "note": "Leaf sprout reads as a person; negative space dual image."
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "heart containing bar chart",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "clear"
+      ],
+      "note": "Merges heart and bar chart into one simple silhouette."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "gradient square with triangular notch K",
+      "geometry": [
+        "square",
+        "triangle"
+      ],
+      "techniques": [
+        "gradient",
+        "negative-space",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "modern",
+        "bold"
+      ],
+      "note": "K implied by one triangular cut; extreme geometric economy."
+    },
+    {
+      "industry": "cloud-infrastructure",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "ship wheel in blue heptagon",
+      "geometry": [
+        "radial",
+        "freeform"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "containment",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "iconic"
+      ],
+      "note": "Helm metaphor for orchestration; clean radial construction."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "isometric outlined cubes forming L",
+      "geometry": [
+        "square"
+      ],
+      "techniques": [
+        "isometric-3d",
+        "line-monoline",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "bold"
+      ],
+      "note": "Monoline isometric construction builds letter L from cubes."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "angular flame from stacked parallelograms",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "overlap-transparency",
+        "color-segments",
+        "geometric-construction",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "energetic",
+        "modern"
+      ],
+      "note": "Flame built from overlapping geometric facets; clever 'lit' pun."
+    },
+    {
+      "industry": "testing-monitoring",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "kettlebell with L cut into it",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning",
+        "letter-substitution"
+      ],
+      "type_style": null,
+      "mood": [
+        "strong",
+        "clever"
+      ],
+      "note": "Kettlebell weight equals load testing; L carved in negative space."
+    },
+    {
+      "industry": "database-data",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "geometric L from half-round and square",
+      "geometry": [
+        "square"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "color-segments"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "modern"
+      ],
+      "note": "Letter L composed from simple colored geometric primitives."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "emblem",
+      "symbol_type": null,
+      "subject": "moon orbiting planet with Lua text",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning",
+        "containment"
+      ],
+      "type_style": "humanist-sans",
+      "mood": [
+        "calm",
+        "clever"
+      ],
+      "note": "Lua means moon; orbit and crescent cut conveyed simply."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "at sign shaped like bullseye target",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "line-monoline",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "direct"
+      ],
+      "note": "@ sign merged with bullseye target; email plus precision."
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "green blocks forming abstract m",
+      "geometry": [
+        "square"
+      ],
+      "techniques": [
+        "negative-space",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "solid"
+      ],
+      "note": "Pure rectangles and gaps build an m; extreme reduction."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "emblem",
+      "symbol_type": null,
+      "subject": "M and down arrow in rounded frame",
+      "geometry": [
+        "rounded-square"
+      ],
+      "techniques": [
+        "containment",
+        "arrow",
+        "letter-substitution"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "functional",
+        "minimal"
+      ],
+      "note": "M plus down-arrow spells 'markdown' with pure simplicity."
+    },
+    {
+      "industry": "payments-fintech",
+      "mark_type": "combination",
+      "symbol_type": "abstract",
+      "subject": "overlapping red and yellow circles",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "overlap-transparency",
+        "mirror-symmetry"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "trustworthy",
+        "warm"
+      ],
+      "note": "Two overlapping circles: iconic, reducible, color-driven identity."
+    },
+    {
+      "industry": "media-entertainment",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "circle and two ellipses in sequence",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "editorial"
+      ],
+      "note": "Three pure ellipses; radical geometric reduction with rhythm."
+    },
+    {
+      "industry": "cloud-infrastructure",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "M assembled from cyan triangles",
+      "geometry": [
+        "triangle",
+        "grid-modular"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "geometric-construction",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "structured",
+        "modern"
+      ],
+      "note": "M assembled from repeated triangles; modular construction lesson."
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "dot grid with darker dots forming M",
+      "geometry": [
+        "grid-modular",
+        "circle"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "pixel",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "analytical",
+        "friendly"
+      ],
+      "note": "Letter M emerges from a uniform dot grid via tone only."
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "combination",
+      "symbol_type": "abstract",
+      "subject": "four colored squares in grid",
+      "geometry": [
+        "square",
+        "grid-modular"
+      ],
+      "techniques": [
+        "color-segments",
+        "modular-repetition"
+      ],
+      "type_style": "humanist-sans",
+      "mood": [
+        "trustworthy",
+        "balanced"
+      ],
+      "note": "Four colored squares; maximal simplicity with a clear system."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "brackets and v forming M in orange tile",
+      "geometry": [
+        "rounded-square"
+      ],
+      "techniques": [
+        "bracket-code",
+        "letter-substitution",
+        "containment"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "technical",
+        "clever"
+      ],
+      "note": "]v[ reads as M; code brackets double as letter strokes."
+    },
+    {
+      "industry": "open-source-community",
+      "mark_type": "emblem",
+      "symbol_type": null,
+      "subject": "moz://a in black box",
+      "geometry": [
+        "square"
+      ],
+      "techniques": [
+        "letter-substitution",
+        "containment",
+        "hidden-meaning"
+      ],
+      "type_style": "slab",
+      "mood": [
+        "bold",
+        "witty"
+      ],
+      "note": "URL syntax :// substitutes letters; clever, ownable type idea."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "thin NEXT with extended X stroke",
+      "geometry": [],
+      "techniques": [
+        "ligature",
+        "geometric-construction"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "minimal",
+        "sharp"
+      ],
+      "note": "Hairline custom letters with an extended X stroke; distinctive type customisation."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "horned demon n in green hexagon",
+      "geometry": [
+        "hexagon"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "mischievous"
+      ],
+      "note": "Two horns turn an n into a demon; one witty idea."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "white n in red square",
+      "geometry": [
+        "square"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "utilitarian"
+      ],
+      "note": "n carved from a solid square; pure negative-space simplicity."
+    },
+    {
+      "industry": "ai-ml",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "hexagonal knot of interlocking strokes",
+      "geometry": [
+        "hexagon",
+        "radial"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "modular-repetition",
+        "line-monoline",
+        "impossible-figure"
+      ],
+      "type_style": null,
+      "mood": [
+        "intelligent",
+        "balanced"
+      ],
+      "note": "One rounded module rotated six times forms an interlaced knot."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "lettermark",
+      "symbol_type": null,
+      "subject": "solid circle and blocky F",
+      "geometry": [
+        "circle",
+        "square"
+      ],
+      "techniques": [
+        "geometric-construction"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "bold",
+        "graphic"
+      ],
+      "note": "O and F from primitive circle and blocks; bold geometric reduction."
+    },
+    {
+      "industry": "open-source-community",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "green ring with keyhole opening",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "open",
+        "trustworthy"
+      ],
+      "note": "Keyhole notch opens the ring; open-source idea in one gesture."
+    },
+    {
+      "industry": "hardware-devices",
+      "mark_type": "combination",
+      "symbol_type": "pictorial",
+      "subject": "gear with keyhole notch",
+      "geometry": [
+        "circle",
+        "radial"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning",
+        "radial-symmetry"
+      ],
+      "type_style": "humanist-sans",
+      "mood": [
+        "open",
+        "technical"
+      ],
+      "note": "Gear with keyhole notch fuses hardware and openness."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "square frame with notch forming P",
+      "geometry": [
+        "square"
+      ],
+      "techniques": [
+        "negative-space",
+        "line-monoline",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "bold"
+      ],
+      "note": "A single square outline with one notch reads as P."
+    },
+    {
+      "industry": "payments-fintech",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "circle beside vertical bar forming P",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "minimal"
+      ],
+      "note": "P reduced to a bar and a circle; simplest possible construction."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "P shaped like a pin in red circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "friendly"
+      ],
+      "note": "P letter doubles as a map pin; subtle hidden meaning."
+    },
+    {
+      "industry": "testing-monitoring",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "red and green theater masks",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "overlap-transparency",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "dramatic",
+        "playful"
+      ],
+      "note": "Theater masks literalize the name; memorable dual-mask idea."
+    },
+    {
+      "industry": "design-creative",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "P built from open arc and bar",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "bold"
+      ],
+      "note": "P constructed from open arc and bar, pure geometry"
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "rows of colored lines like formatted code",
+      "geometry": [
+        "grid-modular"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "color-segments",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "orderly",
+        "clean"
+      ],
+      "note": "Directly visualises tidy formatted code lines"
+    },
+    {
+      "industry": "database-data",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "prism triangle with inner facet",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "negative-space",
+        "isometric-3d"
+      ],
+      "type_style": null,
+      "mood": [
+        "sharp",
+        "minimal"
+      ],
+      "note": "Single-stroke prism, strong simple silhouette"
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "P drawn as continuous spiral stroke",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "line-monoline"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "fluid"
+      ],
+      "note": "P drawn in one continuous stroke, very economical"
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "two interlocking snakes, blue and yellow",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "color-segments",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "balanced"
+      ],
+      "note": "Rotational symmetry of two snakes, memorable and simple"
+    },
+    {
+      "industry": "cloud-infrastructure",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "blocky rabbit-ear silhouette with square hole",
+      "geometry": [
+        "square",
+        "grid-modular"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "simple"
+      ],
+      "note": "Rabbit reduced to rectangles, strong geometric abstraction"
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "lambda shaped into ram head with horn",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "letter-substitution",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "clever",
+        "bold"
+      ],
+      "note": "Lambda doubles as ram: name pun made visual"
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "atom with three elliptical orbits",
+      "geometry": [
+        "radial",
+        "circle"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "line-monoline",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "iconic"
+      ],
+      "note": "Iconic radial construction, works as single-color line mark"
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "red fedora with black band",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [],
+      "type_style": null,
+      "mood": [
+        "confident",
+        "iconic"
+      ],
+      "note": "Single object, flat, instantly recognisable silhouette"
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "r from bar and dot in red square",
+      "geometry": [
+        "rounded-square"
+      ],
+      "techniques": [
+        "containment",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "simple",
+        "bold"
+      ],
+      "note": "Letter r reduced to a bar and a dot"
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "green circle cut by mountain chevron",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "clean",
+        "confident"
+      ],
+      "note": "Mountain peak carved from circle with one cut"
+    },
+    {
+      "industry": "design-creative",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "faceted yellow-orange diamond gem",
+      "geometry": [
+        "diamond"
+      ],
+      "techniques": [
+        "dimensional-shading",
+        "color-segments",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "precious",
+        "bright"
+      ],
+      "note": "Clean faceted construction, shading by flat color only"
+    },
+    {
+      "industry": "productivity-collaboration",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "four-color rounded bars forming hash pinwheel",
+      "geometry": [
+        "radial",
+        "rounded-square"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "radial-symmetry",
+        "color-segments",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "colorful"
+      ],
+      "note": "Modular pieces form hashtag and pinwheel"
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "black mountain with snow-cap cutout",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "minimal"
+      ],
+      "note": "Mountain and snow cap from one triangle and one cut"
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "lightning bolt inside black ring",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "containment",
+        "line-monoline"
+      ],
+      "type_style": null,
+      "mood": [
+        "fast",
+        "minimal"
+      ],
+      "note": "Bolt in ring: simple, scalable, single-color"
+    },
+    {
+      "industry": "media-entertainment",
+      "mark_type": "combination",
+      "symbol_type": "pictorial",
+      "subject": "waveform-bar cloud above SOUNDCLOUD",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "gradient",
+        "modular-repetition",
+        "hidden-meaning"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "warm",
+        "energetic"
+      ],
+      "note": "Cloud built from sound bars fuses both halves of name"
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "SPARKPOST with flame replacing O",
+      "geometry": [],
+      "techniques": [
+        "letter-substitution"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "energetic",
+        "technical"
+      ],
+      "note": "Flame-for-O substitution adds one memorable accent"
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "black monkey silhouette forming an S",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "hidden-meaning",
+        "letter-substitution"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "clever"
+      ],
+      "note": "Monkey silhouette doubles as the letter S"
+    },
+    {
+      "industry": "media-entertainment",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "three sound-wave arcs in green circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "containment",
+        "motion-lines"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "friendly"
+      ],
+      "note": "Three arcs in a circle: minimal and instantly readable"
+    },
+    {
+      "industry": "payments-fintech",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "small square inside rounded dark square",
+      "geometry": [
+        "rounded-square",
+        "square"
+      ],
+      "techniques": [
+        "containment",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "trustworthy"
+      ],
+      "note": "Name made literal with two nested squares"
+    },
+    {
+      "industry": "design-creative",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "two interlocking black link loops",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "line-monoline",
+        "overlap-transparency",
+        "modular-repetition"
+      ],
+      "type_style": null,
+      "mood": [
+        "elegant",
+        "bold"
+      ],
+      "note": "Interlocking modular strokes, strong single-color mark"
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "orange bars fanning out of grey tray",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "stacked-layers",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "energetic"
+      ],
+      "note": "Literally depicts a stack overflowing its tray"
+    },
+    {
+      "industry": "gaming",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "piston linkage inside black circle",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "mechanical",
+        "bold"
+      ],
+      "note": "Steam-engine linkage in negative space, strong silhouette"
+    },
+    {
+      "industry": "payments-fintech",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "heavy purple stripe lowercase",
+      "geometry": [],
+      "techniques": [],
+      "type_style": "geometric-sans",
+      "mood": [
+        "confident",
+        "modern"
+      ],
+      "note": "Tight custom lowercase, wordmark carries the brand alone"
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "tuxedo shirt front with bow tie",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "negative-space",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "elegant",
+        "witty"
+      ],
+      "note": "Tuxedo metaphor for 'style'; shirt formed by negative space."
+    },
+    {
+      "industry": "database-data",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "split lightning bolt",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "gradient"
+      ],
+      "type_style": null,
+      "mood": [
+        "fast",
+        "modern"
+      ],
+      "note": "Bolt split into two offset halves; minimal, memorable."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "S from interlocking rounded links",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "negative-space",
+        "line-monoline"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "energetic"
+      ],
+      "note": "S drawn as two interlocking rounded links; strong negative space."
+    },
+    {
+      "industry": "programming-language",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "swift bird in rounded square",
+      "geometry": [
+        "rounded-square"
+      ],
+      "techniques": [
+        "negative-space",
+        "gradient",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "fast",
+        "sleek"
+      ],
+      "note": "Name-literal bird in negative space; simple swoosh construction."
+    },
+    {
+      "industry": "marketing-analytics",
+      "mark_type": "combination",
+      "symbol_type": "abstract",
+      "subject": "plus-sign cluster with +ableau name",
+      "geometry": [
+        "grid-modular"
+      ],
+      "techniques": [
+        "letter-substitution",
+        "modular-repetition",
+        "color-segments"
+      ],
+      "type_style": "geometric-sans",
+      "mood": [
+        "analytical",
+        "clean"
+      ],
+      "note": "t replaced by plus sign, echoing symbol; coherent system."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "two stacked wind waves",
+      "geometry": [
+        "organic"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "gradient"
+      ],
+      "type_style": null,
+      "mood": [
+        "fluid",
+        "fresh"
+      ],
+      "note": "Two repeated wave strokes; minimal, memorable, name-literal."
+    },
+    {
+      "industry": "ai-ml",
+      "mark_type": "lettermark",
+      "symbol_type": null,
+      "subject": "isometric blocks reading as T and F",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "isometric-3d",
+        "dimensional-shading",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "bold"
+      ],
+      "note": "One isometric form reads as T and F from different sides."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "triangle subdivided into wireframe mesh",
+      "geometry": [
+        "triangle",
+        "grid-modular"
+      ],
+      "techniques": [
+        "line-monoline",
+        "geometric-construction",
+        "isometric-3d"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "precise"
+      ],
+      "note": "Subdivided triangle mesh signals 3D in pure line geometry."
+    },
+    {
+      "industry": "media-entertainment",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "four diamonds in tight cluster",
+      "geometry": [
+        "diamond",
+        "grid-modular"
+      ],
+      "techniques": [
+        "modular-repetition",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "bold"
+      ],
+      "note": "Four identical diamonds; extreme simplicity, scales perfectly."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "music note with cyan-red glitch offset",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "stacked-layers",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "energetic",
+        "youthful"
+      ],
+      "note": "Chromatic offset layers evoke motion; note doubles as d."
+    },
+    {
+      "industry": "security-identity",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "name with onion replacing o",
+      "geometry": [],
+      "techniques": [
+        "letter-substitution",
+        "hidden-meaning"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "trustworthy",
+        "bold"
+      ],
+      "note": "Onion substitutes the o, explaining onion routing at a glance."
+    },
+    {
+      "industry": "productivity-collaboration",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "kanban board with two cards",
+      "geometry": [
+        "rounded-square"
+      ],
+      "techniques": [
+        "containment",
+        "negative-space",
+        "gradient"
+      ],
+      "type_style": null,
+      "mood": [
+        "organized",
+        "simple"
+      ],
+      "note": "Product's own board UI reduced to two bars; instantly explanatory."
+    },
+    {
+      "industry": "cloud-infrastructure",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "origami crane of flat triangles",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "light",
+        "elegant"
+      ],
+      "note": "Name-literal origami crane from flat triangles; clean construction."
+    },
+    {
+      "industry": "media-entertainment",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "glitch speech bubble with eyes",
+      "geometry": [
+        "freeform"
+      ],
+      "techniques": [
+        "speech-bubble",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "playful",
+        "bold"
+      ],
+      "note": "Speech bubble with two eyes: chat and character in one shape."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "blue bird in flight",
+      "geometry": [
+        "organic",
+        "circle"
+      ],
+      "techniques": [
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "light"
+      ],
+      "note": "Bird constructed entirely from overlapping circle arcs."
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "circle of three friends in orange disc",
+      "geometry": [
+        "circle",
+        "radial"
+      ],
+      "techniques": [
+        "radial-symmetry",
+        "negative-space",
+        "containment",
+        "hidden-meaning"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "communal"
+      ],
+      "note": "Three abstract figures form a ring; radial symmetry carries 'community'."
+    },
+    {
+      "industry": "gaming",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "cube implied by three arrow shapes",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "negative-space",
+        "isometric-3d",
+        "radial-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "bold"
+      ],
+      "note": "Cube emerges from negative space between three angular pieces."
+    },
+    {
+      "industry": "hosting-cdn",
+      "mark_type": "abstract",
+      "symbol_type": null,
+      "subject": "solid black equilateral triangle",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "minimal",
+        "confident"
+      ],
+      "note": "A single equilateral triangle; reduction to the absolute minimum."
+    },
+    {
+      "industry": "framework-library",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "nested green and navy chevrons",
+      "geometry": [
+        "triangle"
+      ],
+      "techniques": [
+        "stacked-layers",
+        "mirror-symmetry",
+        "negative-space"
+      ],
+      "type_style": null,
+      "mood": [
+        "clean",
+        "friendly"
+      ],
+      "note": "Two nested chevrons make a V; flat geometry, instantly recognisable."
+    },
+    {
+      "industry": "developer-tools",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "cube inside isometric hexagon shell",
+      "geometry": [
+        "hexagon"
+      ],
+      "techniques": [
+        "isometric-3d",
+        "containment",
+        "dimensional-shading"
+      ],
+      "type_style": null,
+      "mood": [
+        "technical",
+        "solid"
+      ],
+      "note": "Cube in cube reads as 'package'; clean isometric construction."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "phone handset inside speech bubble",
+      "geometry": [
+        "circle"
+      ],
+      "techniques": [
+        "speech-bubble",
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "friendly",
+        "approachable"
+      ],
+      "note": "Phone plus speech bubble fuses call and chat in one silhouette."
+    },
+    {
+      "industry": "social-communication",
+      "mark_type": "wordmark",
+      "symbol_type": null,
+      "subject": "thin continuous monoline name",
+      "geometry": [],
+      "techniques": [
+        "line-monoline"
+      ],
+      "type_style": "display-custom",
+      "mood": [
+        "minimal",
+        "elegant"
+      ],
+      "note": "Single-weight wire-like strokes literally embody the name."
+    },
+    {
+      "industry": "media-entertainment",
+      "mark_type": "pictorial",
+      "symbol_type": null,
+      "subject": "play triangle in red rounded screen",
+      "geometry": [
+        "rounded-square",
+        "triangle"
+      ],
+      "techniques": [
+        "negative-space",
+        "containment"
+      ],
+      "type_style": null,
+      "mood": [
+        "bold",
+        "iconic"
+      ],
+      "note": "Universal play symbol in a TV-shaped container; radical simplicity."
+    },
+    {
+      "industry": "productivity-collaboration",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "Z from two triangles and semicircles",
+      "geometry": [
+        "triangle",
+        "circle"
+      ],
+      "techniques": [
+        "geometric-construction",
+        "negative-space",
+        "mirror-symmetry"
+      ],
+      "type_style": null,
+      "mood": [
+        "balanced",
+        "calm"
+      ],
+      "note": "Z built from two triangles and two semicircles; pure geometric construction."
+    },
+    {
+      "industry": "os-platform",
+      "mark_type": "letterform",
+      "symbol_type": null,
+      "subject": "Z carved from cyan hexagon bands",
+      "geometry": [
+        "hexagon"
+      ],
+      "techniques": [
+        "negative-space",
+        "geometric-construction"
+      ],
+      "type_style": null,
+      "mood": [
+        "clean",
+        "modern"
+      ],
+      "note": "Z appears only through negative space between stacked bands."
+    }
+  ]
+}
